@@ -75,19 +75,6 @@ An AI-enabled digital twin platform for monitoring and simulating a **Medium-Alt
 An AI-powered application designed to analyze resumes, assist with interview preparation and provide intelligent feedback.
 
 **Technologies:** Python · FastAPI · NLP · LLMs · PDF Processing
-
-### 🌊 FloatChat
-
-A RAG-based system for interacting with oceanographic **ARGO data** using natural language.
-
-**Technologies:** Python · PostgreSQL · FAISS · LangChain · Streamlit · RAG
-
-### ☀️ Solar Energy Prediction
-
-A machine-learning project for predicting solar-related energy output using **CatBoost**.
-
-**Technologies:** Python · CatBoost · Machine Learning · Data Analysis
-
 ---
 
 ## 🧠 Problem Solving
