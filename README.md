@@ -169,7 +169,7 @@ AI / ML
 
 \<p align="center">
 
-\<img src="[https://raw.githubusercontent.com/mohammednumaan29/mohammednum29/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mohammednumaan29/mohammednum29/output/github-contribution-grid-snake.svg)" />
+\<img src="[https://raw.githubusercontent.com/mohammednumaan29/mohammednum29/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/mohammednumaan29/mohammednumaan29/output/github-contribution-grid-snake.svg)" />
 
 \</p>
 
